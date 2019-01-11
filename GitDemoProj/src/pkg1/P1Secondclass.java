@@ -6,6 +6,7 @@ public class P1Secondclass {
 		// TODO Auto-generated method stub
 		/*
 		 *pkg1 second class
+		 *adding comment
 		 * 
 		 * 
 		 */

@@ -7,6 +7,7 @@ public class P2Secondclass {
 		/*
 		 * 
 		 pkg2 second class
+		 adding comment
 		 * 
 		 */
 	}

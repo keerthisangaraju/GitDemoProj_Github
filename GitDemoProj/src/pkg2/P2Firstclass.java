@@ -6,6 +6,7 @@ public class P2Firstclass {
 
 		/*
 		 *pkg2 first class
+		 *adding comment 
 		 * 
 		 */
 	}
